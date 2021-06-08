@@ -1,4 +1,4 @@
-### Hi there ![animate](https://user-images.githubusercontent.com/38897468/121205669-7d221500-c895-11eb-9f82-3ff771d38203.gif) I'm MAHAN NAVIDU MALPORU
+### Hi there <p![animate](https://user-images.githubusercontent.com/38897468/121205669-7d221500-c895-11eb-9f82-3ff771d38203.gif)/> I'm MAHAN NAVIDU MALPORU
 
 <!--
 **MAHANNAVIDU734/MAHANNAVIDU734** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
