@@ -3,6 +3,9 @@
 
 ![68747470733a2f2f692e696d6775722e636f6d2f5032654878396c2e706e67](https://user-images.githubusercontent.com/38897468/121206281-f6ba0300-c895-11eb-896f-0f6f29d74646.png)
 
+### 🌱 I’m currently learning Web API Development
+### HTML ![download (3)](https://user-images.githubusercontent.com/38897468/121567719-88fc0b80-ca3c-11eb-8833-b1a90c4fdae9.png)
+### Javascript ![javascript-2752148-2284965](https://user-images.githubusercontent.com/38897468/121567785-9913eb00-ca3c-11eb-9c33-414dd2dee3a9.png)
 
 <!--
 **MAHANNAVIDU734/MAHANNAVIDU734** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
