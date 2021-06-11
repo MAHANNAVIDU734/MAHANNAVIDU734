@@ -5,7 +5,7 @@
 
 ### 🌱 I’m currently learning Web API Development,  Designing, Planning, Dreaming
 ### ☕ Cup of Coffee
-###  🚗 Driving  👨🏾‍💻 Coding  🏆 Fittness  🧳 Traveling  📖 Learning  🎮VideoGames  🎼Listening Music
+###  🚗 Driving  👨🏾‍💻 Coding  🏆 Fittness  🧳 Traveling  📖 Learning  🎮VideoGames  🎼Listening Music 🍕 Eating
          
 
 <!--
