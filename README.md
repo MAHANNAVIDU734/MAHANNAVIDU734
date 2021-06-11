@@ -5,13 +5,8 @@
 
 ### 🌱 I’m currently learning Web API Development
 <b>Intersting:-</b>
-###         🚗 Driving 
-###         👨🏾‍💻 Coding 
-###         🏆 Fittness 
-###         🧳 Traveling 
-###         📖 Learning 
-###         🎮VideoGames 
-###         🎼Listening Music 
+###         🚗 Driving  👨🏾‍💻 Coding  🏆 Fittness  🧳 Traveling  📖 Learning  🎮VideoGames  🎼Listening Music
+         
 
 <!--
 **MAHANNAVIDU734/MAHANNAVIDU734** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
