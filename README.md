@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Languages and Tools:**
+### Languages and Tools:
 
 <p align="center">
 
