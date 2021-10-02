@@ -48,12 +48,12 @@ Here are some ideas to get you started:
   
  
  <p align="center">
- ### CONTACT ME
+ <h3>CONTACT ME</h3>
   <i>Let's connect and chat! Find me on the web...</i>
 
 <div align="center">
          
-[![Linkedin Badge](https://img.shields.io/badge/-mahan-malporu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahan-malporu-55538a1b5/)](https://www.linkedin.com/in/mahan-malporu-55538a1b5/)
+[![Linkedin Badge](https://img.shields.io/badge/-priyabihani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahan-malporu-55538a1b5/)](https://www.linkedin.com/in/mahan-malporu-55538a1b5/)
          
 [![Gmail Badge](https://img.shields.io/badge/mahan.navidu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mahan.navidu@gmail.com)](mailto:mahan.navidu@gmail.com/)
 
