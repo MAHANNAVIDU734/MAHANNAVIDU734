@@ -26,14 +26,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAHANNAVIDU734&layout=compact)](https://github.com/MAHANNAVIDU734/github-readme-stats)
 
 
-<a href="https://github.com/MAHANNAVIDU734/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MAHANNAVIDU734&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/MAHANNAVIDU734/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MAHANNAVIDU734&repo=convoychat" />
-</a>
-
-
 ### 🧑‍💻 Languages and 🛠️ Tools:
 
 <p align="center">
