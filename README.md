@@ -47,9 +47,11 @@ Here are some ideas to get you started:
 </p>
   
  ### CONTACT ME
- <div>
- <p>
-[![Linkedin Badge](https://img.shields.io/badge/-priyabihani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahan-malporu-55538a1b5/)](https://www.linkedin.com/in/mahan-malporu-55538a1b5/) 
-[![Gmail Badge](https://img.shields.io/badge/gupta.kartik18kg-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mahan.navidu@gmail.com)](mailto:mahan.navidu@gmail.com)
+ <p align="center">
+  <i>Let's connect and chat! Find me on the web...</i>
+
+  <div align="center">
+[![Linkedin Badge](https://img.shields.io/badge/-priyabihani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahan-malporu-55538a1b5/)](https://www.linkedin.com/in/mahan-malporu-55538a1b5/)]
+[![Gmail Badge](https://img.shields.io/badge/gupta.kartik18kg-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mahan.navidu@gmail.com)](mailto:mahan.navidu@gmail.com)]
 </p>
 </div>
