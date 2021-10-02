@@ -41,4 +41,7 @@ Here are some ideas to get you started:
 
   </div>
   </p>
-
+[![Linkedin Badge](https://img.shields.io/badge/-priyabihani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/kartik-gupta-3275651b8/)](https://www.linkedin.com/in/kartik-gupta-3275651b8/) 
+   [![Gmail Badge](https://img.shields.io/badge/gupta.kartik18kg-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gupta.kartik18kg@gmail.com)](mailto:priyabihani.official@gmail.com)
+   [![Instagram Badge](https://img.shields.io/badge/-@bihani.priya-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/kartik18g/)](https://instagram.com/kartik18g) 
+ [![Twitter Badge](https://img.shields.io/badge/-@Gkaartik-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/p_bihani)](https://twitter.com/Gkaartik) 
