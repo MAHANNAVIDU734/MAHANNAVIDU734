@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAHANNAVIDU734&layout=compact)](https://github.com/MAHANNAVIDU734&show_icons=true&theme=radical)
 
-[![MAHAN's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MAHANNAVIDU734)](https://github.com/MAHANNAVIDU734/github-readme-stats)
 
 
 
