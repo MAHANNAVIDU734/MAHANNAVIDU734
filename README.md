@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   
  
  <p align="center">
- <h3>CONTACT ME</h3>
+ <h3>🤙 CONTACT ME</h3>
   <i>Let's connect and chat! Find me on the web...</i>
 
 <p align="center">
