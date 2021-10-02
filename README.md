@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
   </div>
   </p>
-  <p > 
+  <p >💁 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/MAHANNAVIDU734/count.svg" />
 </p>
