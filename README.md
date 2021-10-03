@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-         ### 🧑‍💻 Languages and 🛠️ Tools:
+         <h3>🧑‍💻 Languages and 🛠️ Tools:</h3>
 
   <div align="center">
 
