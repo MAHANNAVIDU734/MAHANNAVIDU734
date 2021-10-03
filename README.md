@@ -51,13 +51,22 @@ Here are some ideas to get you started:
   <i>Let's connect and chat! Find me on the web...</i>
 
 <p>
- <li align="center">    
-          
+<li align="center">    
+<code>
+         
 [![Linkedin Badge](https://img.shields.io/badge/-Mahan_Navidu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahan-malporu-55538a1b5/)](https://www.linkedin.com/in/mahan-malporu-55538a1b5/)
          
+</code>
+ <code>
+         
 [![Gmail Badge](https://img.shields.io/badge/mahan.navidu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mahan.navidu@gmail.com)](mailto:mahan.navidu@gmail.com/)
+          
+</code>
+<code>
          
 [![Facebook Badge](https://img.shields.io/badge/Mahan_Navidu-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/mahan.navidu/)](https://www.facebook.com/mahan.navidu/)
+         
+</code>
           
 </li>         
 
