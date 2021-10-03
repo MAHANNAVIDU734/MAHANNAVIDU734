@@ -43,8 +43,10 @@ Here are some ideas to get you started:
 
   </div>
   </p>
+  <div align="center">
   <h3>💁 Visitor count</h3><br>
   <img src="https://profile-counter.glitch.me/MAHANNAVIDU734/count.svg" />
+  </div>
 </p>
   
  
