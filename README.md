@@ -49,8 +49,8 @@ Here are some ideas to get you started:
  <p align="center">
  <h3>🤙 CONTACT ME</h3>
   <i>Let's connect and chat! Find me on the web...</i>
-<li>
-<p align="center">
+<li align="center">
+<p>
          
 [![Linkedin Badge](https://img.shields.io/badge/-Mahan_Navidu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahan-malporu-55538a1b5/)](https://www.linkedin.com/in/mahan-malporu-55538a1b5/)
          
@@ -60,5 +60,5 @@ Here are some ideas to get you started:
          
 
 </p>
-         </li>
+</li>
 </p>
