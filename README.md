@@ -46,12 +46,12 @@ Here are some ideas to get you started:
 </p>
   
  
- <p align="center">
+ 
+
+<p align="center">
  <h3>🤙 CONTACT ME</h3>
   <i>Let's connect and chat! Find me on the web...</i>
 </p>
-
-<p align="center">
 
 <li align="center">  
            
