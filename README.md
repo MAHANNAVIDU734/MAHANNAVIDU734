@@ -65,7 +65,7 @@ Here are some ideas to get you started:
  
 </p>
 
-<li align="center">  
+<div align="center">  
          <h3>🤙 CONTACT ME</h3>
   <i>Let's connect and chat! Find me on the web...</i>
            
@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 
 [![Facebook Badge](https://img.shields.io/badge/Mahan_Navidu-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/mahan.navidu/)](https://www.facebook.com/mahan.navidu/)
           
-</li>         
+</div>         
 
          
 </p>
