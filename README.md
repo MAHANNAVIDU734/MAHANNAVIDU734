@@ -62,8 +62,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
            
 <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
-           
-           <h3>DataBase</h3>
+</div>
+
+   <div align="center">
+   <h3>DataBase</h3>
            
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
            
@@ -72,12 +74,17 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
            
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
-           
-           <h3>Mobile Frameworks</h3>
+</div>
+
+   <div align="center">
+   <h3>Mobile Frameworks</h3>
            
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-           
-           <h3>Frameworks</h3>
+
+    </div>
+      
+    <div align="center">
+    <h3>Frameworks</h3>
            
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
            
@@ -128,7 +135,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" />
            
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
-	  
+	 
+  </div>
   </div>
   </p>
   <div align="center">
