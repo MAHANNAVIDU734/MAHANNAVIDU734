@@ -80,7 +80,8 @@ Here are some ideas to get you started:
  </div>  
  <div align="left">
          <h3>🤝Support Me🤝</h3>
-         [![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/Mahanjet/)
+         
+[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/Mahanjet/)
          
  </div>
 
