@@ -75,8 +75,14 @@ Here are some ideas to get you started:
 
 [![Facebook Badge](https://img.shields.io/badge/Mahan_Navidu-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/mahan.navidu/)](https://www.facebook.com/mahan.navidu/)
          
-[![PayPal Badge](https://img.shields.io/badge/Mahan_Navidu-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.paypal.me/Mahanjet)](https://www.paypal.me/Mahanjet/)       
- </div>         
+
+
+ </div>  
+ <div align="left">
+         <h3>🤝Support Me🤝</h3>
+         [![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/Mahanjet/)
+         
+ </div>
 
          
 </p>
