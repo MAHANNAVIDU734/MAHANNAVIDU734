@@ -74,8 +74,9 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/mahan.navidu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mahan.navidu@gmail.com)](mailto:mahan.navidu@gmail.com/)
 
 [![Facebook Badge](https://img.shields.io/badge/Mahan_Navidu-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/mahan.navidu/)](https://www.facebook.com/mahan.navidu/)
-          
-</div>         
+         
+[![Paypal Badge](https://img.shields.io/badge/Mahan_Navidu-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.paypal.com/donate?hosted_button_id=DV8LY27CYMYYA/)](https://www.paypal.com/donate?hosted_button_id=DV8LY27CYMYYA/)       
+ </div>         
 
          
 </p>
