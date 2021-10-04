@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 
   <div align="center">
   <h3>🧑‍💻 Languages</h3>
+	  
 https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen
            
 https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
@@ -129,6 +130,7 @@ https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor
            https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white
            
            https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white
+	  
   </div>
   </p>
   <div align="center">
