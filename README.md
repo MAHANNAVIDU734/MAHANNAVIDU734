@@ -154,14 +154,12 @@ Here are some ideas to get you started:
          <h3>🤙 CONTACT ME</h3>
   <i>Let's connect and chat! Find me on the web...</i>
            
-<img src="[![Linkedin Badge](https://img.shields.io/badge/-Mahan_Navidu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahan-malporu-55538a1b5/)](https://www.linkedin.com/in/mahan-malporu-55538a1b5/)" />
-           
-<img src="[![Gmail Badge](https://img.shields.io/badge/mahan.navidu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mahan.navidu@gmail.com)](mailto:mahan.navidu@gmail.com/)" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mahan-malporu-55538a1b5/)](https://www.linkedin.com/in/mahan-malporu-55538a1b5/)" />   
+	
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/mahan.navidu/)](https://www.facebook.com/mahan.navidu/)" />
 
-<img src="[![Facebook Badge](https://img.shields.io/badge/Mahan_Navidu-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/mahan.navidu/)](https://www.facebook.com/mahan.navidu/)" />
-         
-
-
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mahan.navidu@gmail.com)](mailto:mahan.navidu@gmail.com/" />
+	
  </div>  
  <div align="left">
          <h3>🤝Support Me🤝</h3>
