@@ -3,7 +3,7 @@
 
 ![68747470733a2f2f692e696d6775722e636f6d2f5032654878396c2e706e67](https://user-images.githubusercontent.com/38897468/121206281-f6ba0300-c895-11eb-896f-0f6f29d74646.png)
 
-### 🌱 I’m currently learning Web API Development,  Designing, Planning, Dreaming California 🇺🇸
+### 🌱 I’m currently learning Web API Development 🧑🏿‍💻,  Designing 🦔, Planning 📅, Dreaming California 🇺🇸
 ### ☕ Cup of Coffee
 ### 🚗 Driving  👨🏾‍💻 Coding  🏆 Fittness  🧳 Traveling  📖 Learning  🎮VideoGames  🎼Listening Music 🍕 Eating
          
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
          
 
   <div align="center">
-  <h3>🧑‍💻 Languages</h3>
+  <h3>🧑‍💻 Languages ⚡</h3>
 	  
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
            
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 </div>
 
    <div align="center">
-   <h3>DataBase</h3>
+   <h3>⚡ DataBase ⚡</h3>
            
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
            
@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 </div>
 
    <div align="center">
-   <h3>Mobile Frameworks</h3>
+   <h3>⚡ Mobile Frameworks ⚡</h3>
            
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
@@ -85,7 +85,7 @@ Here are some ideas to get you started:
       
       
    <div align="center">
-   <h3>Frameworks</h3>
+   <h3>⚡ Frameworks ⚡</h3>
            
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
            
@@ -141,7 +141,7 @@ Here are some ideas to get you started:
   </div>
   </p>
   <div align="center">
-  <h3>💁 Visitor count</h3>
+  <h3>💁 Visitor count ⚡</h3>
          
   <img src="https://profile-counter.glitch.me/MAHANNAVIDU734/count.svg" />
   </div>
@@ -151,7 +151,7 @@ Here are some ideas to get you started:
 </p>
 
 <div align="center">  
-         <h3>🤙 CONTACT ME</h3>
+         <h3> ⚡ 🤙 CONTACT ME 🤙 ⚡</h3>
   <i>Let's connect and chat! Find me on the web...</i>
            
 [![Linkedin Badge](https://img.shields.io/badge/-Mahan_Navidu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahan-malporu-55538a1b5/)](https://www.linkedin.com/in/mahan-malporu-55538a1b5/)
@@ -162,7 +162,7 @@ Here are some ideas to get you started:
 	
  </div>  
  <div align="left">
-         <h3>🤝Support Me🤝</h3>
+         <h3>🤝  ⚡ Support Me ⚡ 🤝</h3>
          
 [![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/Mahanjet/)
          
