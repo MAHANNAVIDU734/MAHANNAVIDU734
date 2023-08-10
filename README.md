@@ -1,7 +1,7 @@
-### Hi there I'm MAHAN NAVIDU MALPORU 💯💯💯 ☺️☺️☺️ ☕☕☕
+###I'm MAHAN NAVIDU MALPORU
 
 
-![38897468/121206281-f6ba0300-c895-11eb-896f-0f6f29d74646]([https://user-images.githubusercontent.com/38897468/121206281-f6ba0300-c895-11eb-896f-0f6f29d74646.png](https://camo.githubusercontent.com/a0b79366a6a40db964a34c087f8326df74f8c05ab8a82bdec44bca480a62c11c/687474703a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d6775792e676966))
+<img align="right" alt="Coding" width="400" src="http://octodex.github.com/images/daftpunktocat-guy.gif">
 
 ### 🌱 I’m currently learning Web API Development 🧑🏿‍💻,  Designing 🦔, Planning 📅, 
 ### ☕ Cup of Coffee
