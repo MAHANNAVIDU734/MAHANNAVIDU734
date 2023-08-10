@@ -25,10 +25,7 @@ Here are some ideas to get you started:
 ![MAHAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=MAHANNAVIDU734&show_icons=true&theme=dracula)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAHANNAVIDU734&layout=dracula)
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAHANNAVIDU734)](https://github.com/MAHANNAVIDU734/github-readme-stats)
 
 
 
