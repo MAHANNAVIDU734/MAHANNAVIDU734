@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAHANNAVIDU734)](https://github.com/MAHANNAVIDU734/github-readme-stats)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/MAHANNAVIDU734/github-readme-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MAHANNAVIDU734&theme=dark)](https://git.io/streak-stats)
 <p align="center">
          
 
