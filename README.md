@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="http://octodex.github.com/images/daftpunktocat-guy.gif">
 <ul>
-<li> 🌱 I’m currently learning </li>
+<li> 🌱 currently learning </li>
 <li>Web API Development 🧑🏿‍💻, </li> 
 <li>Designing 🦔, </li>
 <li>Planning 📅,</li>
