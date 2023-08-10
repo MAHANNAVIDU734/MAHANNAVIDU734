@@ -1,4 +1,4 @@
-<b>I'm MAHAN NAVIDU MALPORU</b>
+<b>I'm<img src="https://loading.io/asset/681021"></b>
 
 
 <img align="right" alt="Coding" width="400" src="http://octodex.github.com/images/daftpunktocat-guy.gif">
