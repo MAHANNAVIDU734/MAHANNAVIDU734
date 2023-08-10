@@ -1,12 +1,22 @@
-### Hi there I'm MAHAN NAVIDU MALPORU 💯💯💯 ☺️☺️☺️ ☕☕☕
+<b>I'm MAHAN NAVIDU MALPORU</b>
 
 
-![68747470733a2f2f692e696d6775722e636f6d2f5032654878396c2e706e67](https://user-images.githubusercontent.com/38897468/121206281-f6ba0300-c895-11eb-896f-0f6f29d74646.png)
-
-### 🌱 I’m currently learning Web API Development 🧑🏿‍💻,  Designing 🦔, Planning 📅, 
-### ☕ Cup of Coffee
-### 🚗 Driving  👨🏾‍💻 Coding  🏆 Fittness  🧳 Traveling  📖 Learning  🎮VideoGames  🎼Listening Music 🍕 Eating
-         
+<img align="right" alt="Coding" width="400" src="http://octodex.github.com/images/daftpunktocat-guy.gif">
+<ul>
+<li> 🌱 currently learning </li>
+<li>Web API Development 🧑🏿‍💻, </li> 
+<li>Designing 🦔, </li>
+<li>Planning 📅,</li>
+<li>Cup of Coffee ☕,</li>
+<li>Driving 🚗,</li>   
+<li>Coding 👨🏾‍💻,</li> 
+<li>Fittness 🏆,</li> 
+<li>Traveling 🧳,</li>
+<li>Learning 📖,</li>   
+<li>VideoGames 🎮,</li> 
+<li>Listening Music 🎼,</li>
+<li>Eating 🍕,</li> 
+</ul>         
 
 <!--
 **MAHANNAVIDU734/MAHANNAVIDU734** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
