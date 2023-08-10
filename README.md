@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="http://octodex.github.com/images/daftpunktocat-guy.gif" />
 <ul>
-<li> 🌱 Currently Rapid learning </li>
+<li>🌱 Currently Rapid learning </li>
 <li>Web API Development 🧑🏿‍💻, </li> 
 <li>Designing 🦔, </li>
 <li>Planning 📅,</li>
