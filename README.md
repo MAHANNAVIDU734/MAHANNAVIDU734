@@ -3,9 +3,18 @@
 
 <img align="right" alt="Coding" width="400" src="http://octodex.github.com/images/daftpunktocat-guy.gif">
 
-### 🌱 I’m currently learning Web API Development 🧑🏿‍💻,  Designing 🦔, Planning 📅, 
-### ☕ Cup of Coffee
-### 🚗 Driving  👨🏾‍💻 Coding  🏆 Fittness  🧳 Traveling  📖 Learning  🎮VideoGames  🎼Listening Music 🍕 Eating
+### 🌱 I’m currently learning Web API Development 🧑🏿‍💻,  
+###                  Designing 🦔, 
+###		     Planning 📅, 
+###                  Cup of Coffee ☕,
+###                  Driving 🚗   
+###                  Coding 👨🏾‍💻 
+###                  Fittness 🏆 
+###		     Traveling 🧳
+###                  Learning 📖   
+###		     VideoGames 🎮 
+###                  Listening Music 🎼
+###		     Eating 🍕 
          
 
 <!--
