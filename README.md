@@ -1,9 +1,9 @@
 ### <li> I'm </li> ![text](https://github.com/MAHANNAVIDU734/MAHANNAVIDU734/assets/38897468/94cee5cc-45db-4089-a069-a57759ef234a)
 
 
-<img align="right" alt="Coding" width="400" src="http://octodex.github.com/images/daftpunktocat-guy.gif">
+<img align="right" alt="Coding" width="400" src="http://octodex.github.com/images/daftpunktocat-guy.gif" />
 <ul>
-<li> 🌱 currently learning </li>
+<li> 🌱 Currently Rapid learning </li>
 <li>Web API Development 🧑🏿‍💻, </li> 
 <li>Designing 🦔, </li>
 <li>Planning 📅,</li>
