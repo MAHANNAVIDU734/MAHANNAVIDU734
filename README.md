@@ -1,21 +1,22 @@
-###I'm MAHAN NAVIDU MALPORU
+<b>I'm MAHAN NAVIDU MALPORU</b>
 
 
 <img align="right" alt="Coding" width="400" src="http://octodex.github.com/images/daftpunktocat-guy.gif">
-
-### 🌱 I’m currently learning Web API Development 🧑🏿‍💻,  
-###                  Designing 🦔, 
-###		     Planning 📅, 
-###                  Cup of Coffee ☕,
-###                  Driving 🚗   
-###                  Coding 👨🏾‍💻 
-###                  Fittness 🏆 
-###		     Traveling 🧳
-###                  Learning 📖   
-###		     VideoGames 🎮 
-###                  Listening Music 🎼
-###		     Eating 🍕 
-         
+<ul>
+<li> 🌱 I’m currently learning </li>
+<li>Web API Development 🧑🏿‍💻, </li> 
+<li>Designing 🦔, </li>
+<li>Planning 📅,</li>
+<li>Cup of Coffee ☕,</li>
+<li>Driving 🚗,</li>   
+<li>Coding 👨🏾‍💻,</li> 
+<li>Fittness 🏆,</li> 
+<li>Traveling 🧳,</li>
+<li>Learning 📖,</li>   
+<li>VideoGames 🎮,</li> 
+<li>Listening Music 🎼,</li>
+<li>Eating 🍕,</li> 
+</ul>         
 
 <!--
 **MAHANNAVIDU734/MAHANNAVIDU734** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
