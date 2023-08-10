@@ -24,13 +24,9 @@ Here are some ideas to get you started:
 -->
 ![MAHAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=MAHANNAVIDU734&show_icons=true&theme=dracula)
 
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAHANNAVIDU734)](https://github.com/MAHANNAVIDU734/github-readme-stats)
 
-
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MAHANNAVIDU734&theme=dark)](https://git.io/streak-stats)
 <p align="center">
          
 
