@@ -176,4 +176,4 @@ Here are some ideas to get you started:
 </p>
 
 
-
+![dino](https://github.com/MAHANNAVIDU734/Nexjs_Full/assets/38897468/1535ff33-4ac6-4643-afc0-5040f08aadf3)
