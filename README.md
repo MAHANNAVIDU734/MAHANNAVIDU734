@@ -1,3 +1,4 @@
+<p align="center">
 ### <li> I'm </li> ![text](https://github.com/MAHANNAVIDU734/MAHANNAVIDU734/assets/38897468/94cee5cc-45db-4089-a069-a57759ef234a)
 
 
@@ -177,3 +178,4 @@ Here are some ideas to get you started:
 
 
 ![dino](https://github.com/MAHANNAVIDU734/Nexjs_Full/assets/38897468/1535ff33-4ac6-4643-afc0-5040f08aadf3)
+</p>
