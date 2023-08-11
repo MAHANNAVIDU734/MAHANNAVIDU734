@@ -1,5 +1,4 @@
-[![icegif-519](https://github.com/MAHANNAVIDU734/Nexjs_Full/assets/38897468/92e07c03-5919-4524-919e-296df26c505c)
-](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3FhbDZxYXNkazFxejJ4aTZtdmZhcWZqMW1oM2Ftbm1zdXJucDE0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sIIhZliB2McAo/giphy.gif)
+![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3FhbDZxYXNkazFxejJ4aTZtdmZhcWZqMW1oM2Ftbm1zdXJucDE0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sIIhZliB2McAo/giphy.gif)
 
 ### <li> I'm </li> ![text](https://github.com/MAHANNAVIDU734/MAHANNAVIDU734/assets/38897468/94cee5cc-45db-4089-a069-a57759ef234a)
 
